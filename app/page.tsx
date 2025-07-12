@@ -689,7 +689,7 @@ export default function Portfolio() {
               <div className="text-2xl font-bold bg-gradient-to-r from-emerald-400 to-teal-400 bg-clip-text text-transparent mb-2">
                 Yassine Taleb
               </div>
-              <p className="text-slate-400">Principal Software Engineer</p>
+              <p className="text-slate-400">FullStack Spring Boot,React Engineer</p>
               <p className="text-slate-500 text-sm mt-1">Building the future, one system at a time</p>
             </div>
 
