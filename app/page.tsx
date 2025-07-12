@@ -186,7 +186,7 @@ export default function Portfolio() {
               <div className="space-y-6">
                 <div className="inline-flex items-center px-4 py-2 rounded-full bg-gradient-to-r from-emerald-500/20 to-teal-500/20 border border-emerald-500/30 backdrop-blur-sm">
                   <div className="w-2 h-2 bg-green-400 rounded-full mr-3 animate-pulse"></div>
-                  <span className="text-emerald-300 text-sm font-medium">Mid-Level Software Engineer • Available</span>
+                  
                 </div>
 
                 <h1 className="text-6xl lg:text-7xl font-bold leading-tight">
@@ -197,7 +197,7 @@ export default function Portfolio() {
                 </h1>
 
                 <div className="space-y-2">
-                  <h2 className="text-3xl lg:text-4xl text-slate-300 font-light">Principal Software Engineer</h2>
+                  <h2 className="text-3xl lg:text-4xl text-slate-300 font-light">FullStack Spring Boot,React Engineer</h2>
                   <div className="flex items-center space-x-4 text-slate-400">
                     <span>•</span>
                     <span>Software Developer</span>
